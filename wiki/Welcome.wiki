@@ -14,3 +14,7 @@ I would love to get some extra help. Drop a message to me telling me your skills
 You can find my other projects here:
   * http://webserver.codeplex.com
   * http://fadd.codeplex.com
+
+= How to participate =
+
+[HowToParticipate Instructions]
